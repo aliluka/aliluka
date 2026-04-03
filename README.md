@@ -5,3 +5,5 @@
 
 🚀 I enjoy building real-world projects that combine hardware + software  
 🎯 Working towards becoming a skilled, industry-ready engineer  
+projects:
+https://github.com/aliluka/iot-project
